@@ -1,0 +1,8 @@
+prefix=/home/trinckets/catkin_ws/install
+
+Name: gazebo_multi_robot_spawn
+Description: Description of gazebo_multi_robot_spawn
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

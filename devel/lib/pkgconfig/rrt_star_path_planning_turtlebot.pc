@@ -1,0 +1,8 @@
+prefix=/home/trinckets/catkin_ws/devel
+
+Name: rrt_star_path_planning_turtlebot
+Description: Description of rrt_star_path_planning_turtlebot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
